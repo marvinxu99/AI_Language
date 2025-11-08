@@ -19,6 +19,8 @@ temp/*
 Projects/KinSight/model_2025*
 Projects/KinSight/runs/*
 
+Learn/bert_output/*
+
 
 # my test output folders
 SavedEmails/
